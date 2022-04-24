@@ -62,7 +62,9 @@ ATM application supports the use of live chat implemented on socket programming 
 
 ## *User Experience*
 User experience is taken into account and various features are implemented such as the welcome message upon loading the bank app. Error messages are coded in red font color and succes messages are code in green font colors to give users an accurate mental mode. Other colors are also implemented to improve users' experience.
+
 <img width="504" alt="Screenshot 2022-04-24 at 9 31 21 AM" src="https://user-images.githubusercontent.com/93068145/164951865-c028aecd-3dbf-49c2-b27c-0cf9c6ff29a7.png">
+
 <img width="412" alt="Screenshot 2022-04-24 at 9 31 43 AM" src="https://user-images.githubusercontent.com/93068145/164951874-3118b4f6-1a7f-47dd-b75b-c4e09a195911.png">
 
 # 2. Instructions
