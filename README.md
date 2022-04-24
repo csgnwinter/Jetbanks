@@ -60,6 +60,10 @@ https://user-images.githubusercontent.com/93068145/164951832-7570c131-d53c-4194-
 ## *Live Chat Support*
 ATM application supports the use of live chat implemented on socket programming to simulate a live chat support for users if they have any enquiries to make.
 
+
+https://user-images.githubusercontent.com/93068145/164952129-624b0eb9-3be9-43fe-82f8-9cd984ede86f.mov
+
+
 ## *User Experience*
 User experience is taken into account and various features are implemented such as the welcome message upon loading the bank app. Error messages are coded in red font color and succes messages are code in green font colors to give users an accurate mental mode. Other colors are also implemented to improve users' experience.
 
